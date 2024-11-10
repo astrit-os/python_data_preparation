@@ -1,0 +1,21 @@
+ID;Name;Age;City;Income;Status
+1;Anna;23.0;New York;54000.0;Single
+2;Ben;35.0;Los Angeles;58000.0;Married
+3;Charlie;29.0;;60000.0;Single
+4;Diana;45.0;Chicago;;Divorced
+5;Elias;;Miami;49000.0;Single
+6;;31.0;Miami;52000.0;Married
+7;Fiona;22.0;New York;48000.0;Single
+8;George;;Los Angeles;61000.0;
+9;Hannah;28.0;;56000.0;Divorced
+10;Ian;40.0;Chicago;;Single
+11;Jack;36.0;Miami;59000.0;Married
+12;Kate;19.0;New York;57000.0;Single
+13;Liam;;Los Angeles;62000.0;Single
+14;;50.0;Chicago;51000.0;Married
+15;Mike;25.0;Miami;;Single
+16;Nora;33.0;New York;60000.0;Divorced
+17;Oscar;;Los Angeles;58000.0;Married
+18;Paul;41.0;;55000.0;Single
+19;Quinn;27.0;Chicago;47000.0;Married
+20;Rachel;38.0;Miami;63000.0;
